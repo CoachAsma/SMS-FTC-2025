@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firstinspires/firstinspires.iml" filepath="$PROJECT_DIR$/firstinspires/firstinspires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstinspires.ftc.teamcode/firstinspires.ftc.teamcode.iml" filepath="$PROJECT_DIR$/firstinspires.ftc.teamcode/firstinspires.ftc.teamcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/org.iml" filepath="$PROJECT_DIR$/.idea/org.iml" />
+    </modules>
+  </component>
+</project>
